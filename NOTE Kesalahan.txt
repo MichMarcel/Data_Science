@@ -1,0 +1,10 @@
+Note: 
+
+Saya Michael Marcel L. G, dengan NRP 2273029 ingin mengkonfirmasi dan meminta maaf atas adanya kesalahan pada summary pada saat commit :
+
+- Bag of Words & Stop Word Filtering
+- TF-IDF (Term Frequency - Inverse Document Frequency)
+
+Seharusnya summary pada 2 poin tersebut adalah eighth commit, tetapi karena kesalahan dan ketidak fokusan saya kedua file tersebut menjadi ninth commit.
+
+Terimakasih atas perhatian Bapa dan saya meminta maaf sekali lagi
